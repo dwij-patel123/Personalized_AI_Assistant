@@ -1,0 +1,14 @@
+torch
+librosa
+openai-whisper
+silero-vad
+python-dotenv
+langchain
+langchain-huggingface
+accelerate
+huggingface_hub
+transformers
+bitsandbytes
+argparse
+edge-tts
+asyncio
