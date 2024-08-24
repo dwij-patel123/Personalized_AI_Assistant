@@ -3,7 +3,7 @@
 ## Project Structure
 This repository consists of implementation of Speech-to-Speech Multimodel Pipeline with constructive parts
 1. **Audio Preprocessing**
-2. **Voice Activity Detection**
+2. **Voice Activity Detection** using **Silero-VAD**
 3. **Speech to Text** using **OpenAI-Whisper**
 4. **Language Model** using **Mistral AI**
 5. **Text to Speech** using **Microsoft SpeechT5**
